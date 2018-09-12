@@ -1,0 +1,2 @@
+# ojtnotes
+Notes For OJT
